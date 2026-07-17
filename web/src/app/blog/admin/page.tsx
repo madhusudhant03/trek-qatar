@@ -127,7 +127,7 @@ export default function AdminPage() {
       setUsername("");
       setPassword("");
     } else {
-      setLoginError("Invalid username or password. Try admin / trekadmin123");
+      setLoginError("Invalid username or password. Please try again.");
     }
   };
 
